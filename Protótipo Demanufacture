@@ -3,7 +3,7 @@
 <title> Protótipo Demanufacture </title>
 </head>
 <body>
-<div style="background-color:GreenYellow;width:500px;border:1px solid black;padding:15px;">
+<div style="background-color:#191970;color: white;width:5000px;height:500px;border:1px solid black;padding:15px;">
 <p><b>Bem vindo ao Protótipo Demanufacture</b></p>
 </div>
 </body>
